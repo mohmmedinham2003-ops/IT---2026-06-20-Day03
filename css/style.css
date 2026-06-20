@@ -1,7 +1,26 @@
- h1 {
+/* h1 {
      background-color: rgb(18, 3, 59);
      color: rgb(243, 158, 215);
      text-align: center;
+ }
 
+ p{
+    background-color: brown;
 
  }
+
+ body{
+    background-color: aquamarine;
+ }*/
+
+ .bg-red{
+    background-color: rgb(65, 113, 94);
+    color: brown;
+
+ }
+
+ .bg-green{
+    background-color: rgb(35, 63, 42);
+    color: cadetblue;
+ }
+
