@@ -16,12 +16,35 @@
  .bg-red{
     background-color: rgb(65, 113, 94);
     color: brown;
+    font-family: fantasy, 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    /* letter-spacing: 5cm; */
+    text-decoration:underline dotted;
 
  }
 
  .bg-green{
     background-color: rgb(35, 63, 42);
     color: cadetblue;
+    font-family: cursive;
+    text-align: center;
+    padding: 50px;
+
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+    /* padding: 85px 50px 100px 50px ; */
+
+    border: 5px solid blue;
+    border-radius: 50px;
+    border-style:dashed;
+    border-color: brown;
+
+    /* margin: 50px; */
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 20px;
  }
 
  #pg-background{
@@ -29,11 +52,11 @@
 
  }
 
-*{
+/* *{
     background-color: rgb(187, 124, 30);
     margin: 0;
     padding: 0;
     font-style: oblique;
     font-size: larger;
-}
+} */
 
